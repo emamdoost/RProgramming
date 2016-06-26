@@ -29,63 +29,11 @@ library(stats)
 library(rpart)
 library(rpart.plot)
 library(rattle)
-```
-
-```
-## Rattle: A free graphical interface for data mining with R.
-## Version 4.1.0 Copyright (c) 2006-2015 Togaware Pty Ltd.
-## Type 'rattle()' to shake, rattle, and roll your data.
-```
-
-```r
 library(randomForest)
-```
-
-```
-## randomForest 4.6-12
-```
-
-```
-## Type rfNews() to see new features/changes/bug fixes.
-```
-
-```
-## 
-## Attaching package: 'randomForest'
-```
-
-```
-## The following object is masked from 'package:ggplot2':
-## 
-##     margin
-```
-
-```r
 library(survival)
-```
-
-```
-## 
-## Attaching package: 'survival'
-```
-
-```
-## The following object is masked from 'package:caret':
-## 
-##     cluster
-```
-
-```r
 library(splines)
 library(parallel)
 library(gbm)
-```
-
-```
-## Loaded gbm 2.1.1
-```
-
-```r
 library(knitr)
 knitr::opts_chunk$set(echo=TRUE, eval=TRUE, cache=TRUE)
 
