@@ -268,7 +268,7 @@ plot(CM_Model_1$table, col = CM_Model_1$byClass,
                   round(CM_Model_1$overall['Accuracy'], 4)))
 ```
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5-2.png)
+![plot of chunk unnamed-chunk-5](https://github.com/emamdoost/Practical-Machine-Learning-Course-Project/blob/master/PracticalMachineLearningCourseProject_files/figure-html/unnamed-chunk-5-2.png)
 
 The resulting decision tree model has an accuracy of 73.7%. The confusion matrix shows the out of sample performance of the model.  
 
@@ -322,7 +322,7 @@ plot(CM_Model_2$table, col = CM_Model_2$byClass,
                   round(CM_Model_2$overall['Accuracy'], 4)))
 ```
 
-![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-6-1.png)
+![plot of chunk unnamed-chunk-6](https://github.com/emamdoost/Practical-Machine-Learning-Course-Project/blob/master/PracticalMachineLearningCourseProject_files/figure-html/unnamed-chunk-6-1.png)
 
 The resulting Random Forests model has an accuracy of 99.7%. The confusion matrix shows the out of sample performance of the model.  
 
@@ -385,7 +385,7 @@ plot(CM_Model_3$table, col = CM_Model_3$byClass,
                   round(CM_Model_3$overall['Accuracy'], 4)))
 ```
 
-![plot of chunk unnamed-chunk-7](figure/unnamed-chunk-7-1.png)
+![plot of chunk unnamed-chunk-7](https://github.com/emamdoost/Practical-Machine-Learning-Course-Project/blob/master/PracticalMachineLearningCourseProject_files/figure-html/unnamed-chunk-7-1.png)
 
 The resulting Random Forests model has an accuracy of 98.8%. The confusion matrix shows the out of sample performance of the model.  
 
